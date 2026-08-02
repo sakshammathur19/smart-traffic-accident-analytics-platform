@@ -1,0 +1,11 @@
+{
+    "event_id": 2,
+    "road_name": "Tonk Road",
+    "vehicle_count": 67,
+    "avg_speed": 73,
+    "weather": "Sunny",
+    "accident_status": false,
+    "latitude": 26.9256,
+    "longitude": 75.826,
+    "timestamp": "2026-08-02 15:00:12"
+}

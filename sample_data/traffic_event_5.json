@@ -1,0 +1,11 @@
+{
+    "event_id": 5,
+    "road_name": "MI Road",
+    "vehicle_count": 274,
+    "avg_speed": 40,
+    "weather": "Fog",
+    "accident_status": false,
+    "latitude": 26.8864,
+    "longitude": 75.7825,
+    "timestamp": "2026-08-02 15:00:46"
+}

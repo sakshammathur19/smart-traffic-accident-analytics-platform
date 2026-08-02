@@ -1,0 +1,11 @@
+{
+    "event_id": 7,
+    "road_name": "Vaishali Nagar",
+    "vehicle_count": 80,
+    "avg_speed": 6,
+    "weather": "Fog",
+    "accident_status": true,
+    "latitude": 26.8771,
+    "longitude": 75.8446,
+    "timestamp": "2026-08-02 15:01:08"
+}

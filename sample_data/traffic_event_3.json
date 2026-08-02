@@ -1,0 +1,11 @@
+{
+    "event_id": 3,
+    "road_name": "Ajmer Road",
+    "vehicle_count": 112,
+    "avg_speed": 85,
+    "weather": "Rain",
+    "accident_status": false,
+    "latitude": 26.8708,
+    "longitude": 75.7301,
+    "timestamp": "2026-08-02 15:00:23"
+}
