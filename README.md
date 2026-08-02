@@ -200,37 +200,55 @@ Critical alerts are published through **AWS SNS Email Notifications**.
 
 ---
 
-# 📊 Power BI Dashboards
+## 🏠 Executive Dashboard
 
-The project includes three interactive dashboards.
+Provides a high-level overview of city traffic with key performance indicators.
 
-## Executive Dashboard
-
+**Features**
 - Total Vehicles
 - Average Speed
+- Total Accidents
 - Critical Alerts
-- Accident Count
 - Weather Distribution
+- Road-wise Traffic Summary
+
+<p align="center">
+  <img src="images/executive_dashboard.png" width="100%">
+</p>
 
 ---
 
-## Congestion Analysis Dashboard
+## 🚗 Congestion Analysis Dashboard
 
-- Road-wise Congestion
-- Speed Trends
-- Vehicle Distribution
-- Congestion Heat Analysis
+Analyzes traffic congestion across different roads.
+
+**Features**
+- Congestion by Road
+- Average Speed Analysis
+- Vehicle Count Distribution
+- Peak Traffic Hours
+- Congestion Trends
+
+<p align="center">
+  <img src="images/congestion_dashboard.png" width="100%">
+</p>
 
 ---
 
-## Accident Intelligence Dashboard
+## 🚨 Accident Intelligence Dashboard
 
+Displays accident hotspots and emergency insights.
+
+**Features**
 - Accident Hotspots
+- Road-wise Accident Summary
 - Emergency Alerts
 - Risk Analysis
-- Road-wise Accident Summary
+- Critical Locations
 
----
+<p align="center">
+  <img src="images/accident_dashboard.png" width="100%">
+</p>
 
 # 📧 AWS SNS Notification
 
