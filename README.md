@@ -213,7 +213,7 @@ Provides a high-level overview of city traffic with key performance indicators.
 - Road-wise Traffic Summary
 
 <p align="center">
-  <img src="images/executive_dashboard.png" width="100%">
+  <img src="images/executive_dashboard.png.png" width="100%">
 </p>
 
 ---
@@ -230,7 +230,7 @@ Analyzes traffic congestion across different roads.
 - Congestion Trends
 
 <p align="center">
-  <img src="images/congestion_dashboard.png" width="100%">
+  <img src="images/congestion_dashboard.png.png" width="100%">
 </p>
 
 ---
@@ -247,7 +247,7 @@ Displays accident hotspots and emergency insights.
 - Critical Locations
 
 <p align="center">
-  <img src="images/accident_dashboard.png" width="100%">
+  <img src="images/accident_dashboard.png.png" width="100%">
 </p>
 
 # 📧 AWS SNS Notification
